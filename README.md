@@ -9,7 +9,7 @@ helelo o//
 
 other stuff
 
-[![twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dromzeh)
-[![website](https://img.shields.io/badge/dromzeh.best-42f4ac.svg?&style=for-the-badge&logoColor=white)](https://dromzeh.best)
+[![twitter](https://img.shields.io/badge/twitter:dromzeh-%231DA1F2.svg?&style=flat_square&logo=twitter&logoColor=white)](https://twitter.com/dromzeh)
+[![element](https://img.shields.io/badge/element:@dromzeh:matrix.org-%28ef4a.svg?&style=flat_square&logo=element&logoColor=white)]()
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/?username=dromzeh&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="editedstats"/></p>
