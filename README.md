@@ -1,7 +1,7 @@
 [![pronouns](https://img.shields.io/badge/pronouns-any-ff69b4)](https://pronoun.is/)
 [![lol](https://img.shields.io/badge/will%20to%20live-failing-red)](https://dromzeh.best)
 
-helelo
+helelo o//
 - i make discord bots w/ [discord.py](https://discordpy.readthedocs.io/en/latest/) sometimes ⁉️
 - most of my respositories are private btw 👌👌
 - i also forget i have a github account half the time.. so just contac me on discord lol @  `dromzeh#1337 (492731761680187403)` 😂
