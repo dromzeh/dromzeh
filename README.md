@@ -1,8 +1,9 @@
 [![pronouns](https://img.shields.io/badge/pronouns-any-ff69b4)](https://pronoun.is/)
+[![lol](https://img.shields.io/badge/will%20to%20live-failing-red)](https://dromzeh.best)
 
 helelo
-- i like to cyberbully discord's apis a bit too much
-- it's literally all i do
+- i make discord bots w/ [discord.py](https://discordpy.readthedocs.io/en/latest/) sometimes ⁉️
+- most of my respositories are private btw 👌👌
+- i also forget i have a github account half the time.. so just contac me on discord lol @  `dromzeh#1337 (492731761680187403)` 😂
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dromzeh&show_icons=true&theme=dracula" alt="githubstats"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dromzeh&layout=compact&theme=dracula" alt="toplangs"/></p>
