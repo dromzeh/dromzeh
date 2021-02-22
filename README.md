@@ -1,6 +1,9 @@
 [![pronouns](https://img.shields.io/badge/pronouns-any-ff69b4)](https://pronoun.is/)
 [![lol](https://img.shields.io/badge/will%20to%20live-failing-red)](https://dromzeh.best)
 
+[![twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dromzeh)
+[![website](https://img.shields.io/badge/dromzeh.best-42f4ac.svg?&style=for-the-badge&logoColor=white)](https://dromzeh.best)
+
 helelo o//
 - i make discord bots w/ [discord.py](https://discordpy.readthedocs.io/en/latest/) sometimes ⁉️
 - most of my respositories are private btw 👌👌
