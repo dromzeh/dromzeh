@@ -3,10 +3,10 @@
 
 
 ### helelo o//
-- i make discord bots w/ [discord.py](https://discordpy.readthedocs.io/en/latest/) sometimes ⁉️
-- most of my respositories are private btw 👌👌
+- i make discord bots w/ [discord.py](https://discordpy.readthedocs.io/en/latest/) sometimes 
+- most of my respositories are private btw
 - i also forget i have a github account half the time.. so just contac me somewher else (linked below)
-- my discord :  `dromzeh#1337 (492731761680187403)` 😂😂😂
+- my discord :  `dromzeh#1337 (492731761680187403)`
 
 other stuff
 
