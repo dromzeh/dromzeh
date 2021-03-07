@@ -1,4 +1,4 @@
-[![pronouns](https://img.shields.io/badge/pronouns-any-ff69b4)](https://pronoun.is/)
+[![pronouns](https://img.shields.io/endpoint?url=https://pronoundb.org/shields/6044a1808687827f70113af8&style=plastic&color=ff69b4)](https://pronoundb.org)
 [![lol](https://img.shields.io/badge/will%20to%20live-failing-red)](https://dromzeh.best)
 
 
