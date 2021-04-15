@@ -6,6 +6,7 @@
 - my discord :  `dromzeh#1337 (492731761680187403)`
 
 other stuff
+
 [![twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat_square&logo=twitter&logoColor=white)](https://twitter.com/dromzeh)
 [![element](https://img.shields.io/badge/element-%28ef4a.svg?&style=flat_square&logo=element&logoColor=white)](https://matrix.to/#/@dromzeh:matrix.org)
 
