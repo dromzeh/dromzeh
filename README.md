@@ -1,13 +1,16 @@
-[![pronouns](https://img.shields.io/endpoint?url=https://pronoundb.org/shields/6044a1808687827f70113af8&color=ff69b4)](https://pronoundb.org)
+[![](https://img.shields.io/endpoint?url=https://pronoundb.org/shields/6044a1808687827f70113af8&color=2bbc8a)](https://pronoundb.org)
 
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=7289DA)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=7289DA)
 
-### o//
-- i make discord bots w/ [discord.py](https://discordpy.readthedocs.io/en/latest/) 
-- my discord :  `dromzeh#1337 (492731761680187403)`
+# tools / languages (color coded on confidence)
+![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=88D18A)
+![](https://img.shields.io/badge/Package-discord.py-informational?style=flat&logo=discord&logoColor=white&color=88D18A)
+![](https://img.shields.io/badge/Language-css-informational?style=flat&logo=css3&logoColor=white&color=ffda2a)
+![](https://img.shields.io/badge/Language-html-informational?style=flat&logo=html5&logoColor=white&color=ffda2a)
+![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=ffda2a)
 
-other stuff
-
-[![twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat_square&logo=twitter&logoColor=white)](https://twitter.com/dromzeh)
-[![element](https://img.shields.io/badge/element-%28ef4a.svg?&style=flat_square&logo=element&logoColor=white)](https://matrix.to/#/@dromzeh:matrix.org)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/?username=dromzeh&show_icons=true&title_color=f2dcb3&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="editedstats"/></p>
+# contact
+![](https://img.shields.io/badge/Discord-492731761680187403-informational?style=flat&logo=discord&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Twitter-dromzeh-informational?style=flat&logo=twitter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Email-dromzeh@protonmail.com-informational?style=flat&logo=protonmail&logoColor=white&color=2bbc8a)
