@@ -1,6 +1,7 @@
+# o//
 [![](https://img.shields.io/endpoint?url=https://pronoundb.org/shields/6044a1808687827f70113af8&color=2bbc8a)](https://pronoundb.org)
 
-# tools / languages
+# tools & languages
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=7289DA)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=7289DA)
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=88D18A)
