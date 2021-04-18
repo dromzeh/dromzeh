@@ -14,3 +14,4 @@
 ![](https://img.shields.io/badge/Discord-492731761680187403-informational?style=flat&logo=discord&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Twitter-dromzeh-informational?style=flat&logo=twitter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Email-dromzeh@protonmail.com-informational?style=flat&logo=protonmail&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Email-hi@dromzeh.best-informational?style=flat&logo=protonmail&logoColor=white&color=2bbc8a)
