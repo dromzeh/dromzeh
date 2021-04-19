@@ -1,5 +1,5 @@
 # o//
-[![](https://img.shields.io/endpoint?url=https://pronoundb.org/shields/6044a1808687827f70113af8&color=2bbc8a)](https://pronoundb.org)
+[![](https://img.shields.io/endpoint?url=https://pronoundb.org/shields/6044a1808687827f70113af8&color=7D7ABC)](https://pronoundb.org)
 
 # tools & languages
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=7289DA)
@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=ffda2a)
 
 # contact
-![](https://img.shields.io/badge/Discord-492731761680187403-informational?style=flat&logo=discord&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Twitter-dromzeh-informational?style=flat&logo=twitter&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Email-dromzeh@protonmail.com-informational?style=flat&logo=protonmail&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Email-hi@dromzeh.best-informational?style=flat&logo=protonmail&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Discord-492731761680187403-informational?style=flat&logo=discord&logoColor=white&color=7D7ABC)
+![](https://img.shields.io/badge/Twitter-dromzeh-informational?style=flat&logo=twitter&logoColor=white&color=7D7ABC)
+![](https://img.shields.io/badge/Email-dromzeh@protonmail.com-informational?style=flat&logo=protonmail&logoColor=white&color=7D7ABC)
+![](https://img.shields.io/badge/Email-hi@dromzeh.best-informational?style=flat&logo=protonmail&logoColor=white&color=7D7ABC)
