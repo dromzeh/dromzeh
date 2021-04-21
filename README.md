@@ -19,6 +19,7 @@ hi, i make discord bots and other things when i'm bored.
 [![IOS](https://img.shields.io/badge/IOS-black?style=for-the-badge&logo=Apple)]()
 [![VSC](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visual-studio-code)]()
 [![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)]()
+[![Python](https://img.shields.io/badge/JSON-black?style=for-the-badge&logo=JSON)]()
 [![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)]()
 [![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)]()
 [![DiscordPY](https://img.shields.io/badge/Discord.py-black?style=for-the-badge&logo=Discord&)]() 
