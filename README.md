@@ -23,7 +23,7 @@ hi, i make discord bots and other things when i'm bored.
 [![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)]()
 [![DiscordPY](https://img.shields.io/badge/Discord.py-black?style=for-the-badge&logo=Discord&)]() 
 [![Heroku](https://img.shields.io/badge/Heroku-informational?style=for-the-badge&logo=heroku&color=black)]()
-[![repl](https://img.shields.io/badge/repl.it-informational?style=for-the-badge&logo=heroku&color=black)]()
+[![repl](https://img.shields.io/badge/repl.it-informational?style=for-the-badge&logo=repl.it&color=black)]()
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub)]()
 [![Premiere](https://img.shields.io/badge/Premiere-black?style=for-the-badge&logo=adobe-Premiere-pro)]()
 [![AE](https://img.shields.io/badge/AE-black?style=for-the-badge&logo=adobe-after-effects)]()
