@@ -1,17 +1,46 @@
-# o//
-[![](https://img.shields.io/endpoint?url=https://pronoundb.org/shields/6044a1808687827f70113af8&color=7D7ABC)](https://pronoundb.org)
 
-# tools & languages
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=7289DA)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=7289DA)
-![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=88D18A)
-![](https://img.shields.io/badge/Package-discord.py-informational?style=flat&logo=discord&logoColor=white&color=88D18A)
-![](https://img.shields.io/badge/Language-css-informational?style=flat&logo=css3&logoColor=white&color=ffda2a)
-![](https://img.shields.io/badge/Language-html-informational?style=flat&logo=html5&logoColor=white&color=ffda2a)
-![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=ffda2a)
+<h1> o7 </h1>
 
-# contact
-![](https://img.shields.io/badge/Discord-492731761680187403-informational?style=flat&logo=discord&logoColor=white&color=7D7ABC)
-![](https://img.shields.io/badge/Twitter-dromzeh-informational?style=flat&logo=twitter&logoColor=white&color=7D7ABC)
-![](https://img.shields.io/badge/Email-dromzeh@protonmail.com-informational?style=flat&logo=protonmail&logoColor=white&color=7D7ABC)
-![](https://img.shields.io/badge/Email-hi@dromzeh.best-informational?style=flat&logo=protonmail&logoColor=white&color=7D7ABC)
+[![](https://img.shields.io/endpoint?url=https://pronoundb.org/shields/6044a1808687827f70113af8&color=7289DA&style=flat-square)](pronoundb.org)
+![](https://img.shields.io/badge/twitter-dromzeh-informational?style=flat-square&logo=twitter&color=blue)
+![](https://img.shields.io/badge/discord-492731761680187403-informational?style=flat-square&logo=discord&color=blue)
+
+---
+
+<details open>
+<summary><b>languages & tools</b></summary>
+<p>
+  
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)]()
+[![IOS](https://img.shields.io/badge/IOS-black?style=for-the-badge&logo=Apple)]()
+[![VSC](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visual-studio-code)]()
+[![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)]()
+[![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)]()
+[![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)]()
+[![DiscordPY](https://img.shields.io/badge/Discord.py-black?style=for-the-badge&logo=Discord&)]() 
+[![Heroku](https://img.shields.io/badge/Heroku-informational?style=for-the-badge&logo=heroku&color=black)]()
+[![repl](https://img.shields.io/badge/repl.it-informational?style=for-the-badge&logo=heroku&color=black)]()
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub)]()
+[![Premiere](https://img.shields.io/badge/Premiere-black?style=for-the-badge&logo=adobe-Premiere-pro)]()
+[![AE](https://img.shields.io/badge/AE-black?style=for-the-badge&logo=adobe-after-effects)]()
+[![FA](https://img.shields.io/badge/FONTAWESOME-black?style=for-the-badge&logo=font-awesome)]()
+
+</details>
+
+
+
+<details open>
+<summary><b>contact</b></summary>
+<p>
+  
+![](https://img.shields.io/badge/492731761680187403-informational?style=for-the-badge&logo=discord&color=black)
+![](https://img.shields.io/badge/dromzeh@protonmail.com-informational?style=for-the-badge&logo=protonmail&color=black)
+![](https://img.shields.io/badge/hi@dromzeh.best-informational?style=for-the-badge&logo=protonmail&color=black)
+    
+    
+</p>
+</details>
+
+---
+
+readme made with help from [this pretty cool list](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
