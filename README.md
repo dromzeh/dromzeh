@@ -5,6 +5,10 @@
 ![](https://img.shields.io/badge/twitter-dromzeh-informational?style=flat-square&logo=twitter&color=blue)
 ![](https://img.shields.io/badge/discord-492731761680187403-informational?style=flat-square&logo=discord&color=blue)
 
+hi, i make discord bots and other things when i'm bored. 
+
+- i'm currently working on a discord bot using discord.py with an integrated soundboard system, support for loads of games statistics + game linking 🚀
+
 ---
 
 <details open>
