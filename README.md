@@ -1,9 +1,9 @@
 
 <h1> o7 </h1>
 
-[![](https://img.shields.io/endpoint?url=https://pronoundb.org/shields/6044a1808687827f70113af8&color=7289DA&style=flat-square)](pronoundb.org)
-![](https://img.shields.io/badge/twitter-dromzeh-informational?style=flat-square&logo=twitter&color=blue)
-![](https://img.shields.io/badge/discord-492731761680187403-informational?style=flat-square&logo=discord&color=blue)
+[![](https://img.shields.io/endpoint?url=https://pronoundb.org/shields/6044a1808687827f70113af8&color=7289DA&style=flat-square)](https://pronoundb.org)
+[![](https://img.shields.io/badge/twitter-dromzeh-informational?style=flat-square&logo=twitter&color=blue)](https://twitter.com/dromzeh)
+[![](https://img.shields.io/badge/discord-492731761680187403-informational?style=flat-square&logo=discord&color=blue)](https://discord.com/channels/@me/492731761680187403)
 
 hi, i make discord bots and other things when i'm bored. 
 
