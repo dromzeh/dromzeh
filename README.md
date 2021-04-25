@@ -7,7 +7,7 @@
 
 hi, i make discord bots and other things when i'm bored. 
 
-- i'm currently working on a discord bot using discord.py with an integrated soundboard system, support for loads of games statistics + game linking 🚀
+- i'm currently working on a discord bot using discord.py with an integrated soundboard system, support for loads of games statistics + game account linking 🚀
 
 ---
 
@@ -48,4 +48,4 @@ hi, i make discord bots and other things when i'm bored.
 
 ---
 
-readme made with help from [this pretty cool list](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+readme made with help from [this pretty cool list](https://github.com/abhisheknaiidu/awesome-github-profile-readme) <3
