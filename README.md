@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/twitter-dromzeh-informational?style=flat-square&logo=twitter&color=blue)](https://twitter.com/dromzeh)
 [![](https://img.shields.io/badge/discord-492731761680187403-informational?style=flat-square&logo=discord&color=blue)](https://discord.com/channels/@me/492731761680187403)
 
-hi, i make discord bots and other things when i'm bored. 
+hi, i make really useless discord bots and other things when i'm bored
 
 - i'm currently working on a discord bot using discord.py with an integrated soundboard system, support for loads of games statistics + game account linking 🚀
 
