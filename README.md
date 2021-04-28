@@ -8,8 +8,8 @@
 </p>
 
 <p align = center>
-    <img src="https://img.shields.io/github/followers/dromzeh?label=Follow&style=social" alt="github follows"/>
-    <img src="https://img.shields.io/twitter/follow/dromzeh?label=Follow&style=social" alt="twitter follows"/>
+    <img src="https://img.shields.io/github/followers/dromzeh?label=Followers&style=social" alt="github follows"/>
+    <img src="https://img.shields.io/twitter/follow/dromzeh?label=Followers&style=social" alt="twitter follows"/>
 </p>
 
 hi, i make really useless discord bots and other things when i'm bored
