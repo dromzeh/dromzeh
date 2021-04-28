@@ -7,6 +7,11 @@
 <img src="https://img.shields.io/badge/discord-492731761680187403-informational?style=flat-square&logo=discord&color=blue" alt="discord">
 </p>
 
+<p align = center>
+    <img src="https://img.shields.io/github/followers/dromzeh?label=Follow&style=social" alt="github follows"/>
+    <img src="https://img.shields.io/twitter/follow/dromzeh?label=Follow&style=social" alt="twitter follows"/>
+</p>
+
 hi, i make really useless discord bots and other things when i'm bored
 
 - i'm currently working on a discord bot using discord.py with an integrated soundboard system, support for loads of games statistics + game account linking 🚀
