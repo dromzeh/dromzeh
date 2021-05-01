@@ -1,10 +1,9 @@
-
 <h1 align = center> o7 </h1>
 
 <p align = center>
 <img src="https://img.shields.io/endpoint?url=https://pronoundb.org/shields/6044a1808687827f70113af8&color=7289DA&style=flat-square" alt="pronouns">
 <img src="https://img.shields.io/badge/twitter-dromzeh-informational?style=flat-square&logo=twitter&color=blue" alt="twitter">
-<img src="https://img.shields.io/badge/discord-492731761680187403-informational?style=flat-square&logo=discord&color=blue" alt="discord">
+<img src="https://img.shields.io/badge/discord-492731761680187403-informational?style=flat-square&logo=discord&color=7289DA" alt="discord">
 </p>
 
 <p align = center>
@@ -12,9 +11,11 @@
     <img src="https://img.shields.io/twitter/follow/dromzeh?label=Followers&style=social" alt="twitter follows"/>
 </p>
 
-hi, i make really useless discord bots and other things when i'm bored
+hi, i make really useless discord bots and other things when i'm bored;
 
-- i'm currently working on a discord bot using discord.py with an integrated soundboard system, support for loads of games statistics + game account linking 🚀
+- i'm currently working on a discord bot using discord.py with an integrated soundboard system + game account linking;
+
+- i also work on some side projects to do with discord aswell, e.g: [roblox filter for discord](https://github.com/dromzeh/roblox-filter-for-discord) which will (soon™) have more features than a couple lines of code `¯\_(ツ)_/¯`
 
 ---
 
@@ -61,6 +62,6 @@ readme made with help from [this pretty cool list](https://github.com/abhishekna
 <p align = center>
   
 <img src="https://badges.pufler.dev/commits/monthly/dromzeh?style=flat-square&color=9cf" alt="commits">
-<img src="https://badges.pufler.dev/repos/dromzeh?style=flat-square&color=9cf" alt="repos">
+<img src="https://badges.pufler.dev/repos/dromzeh?style=flat-square&color=7289DA" alt="repos">
 
 </p>
