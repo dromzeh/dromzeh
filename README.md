@@ -52,8 +52,6 @@ i make really useless discord bots and other things when i'm bored;
 
 ---
 
-readme made with help from [this pretty cool list](https://github.com/abhisheknaiidu/awesome-github-profile-readme) <3
-
 
 <p align = center>
   
