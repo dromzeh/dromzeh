@@ -11,11 +11,7 @@
     <img src="https://img.shields.io/twitter/follow/dromzeh?label=Followers&style=social" alt="twitter follows"/>
 </p>
 
-hi, i make really useless discord bots and other things when i'm bored;
-
-- i'm currently working on a discord bot using discord.py with an integrated soundboard system + game account linking;
-
-- i also work on some side projects to do with discord aswell, e.g: [roblox filter for discord](https://github.com/dromzeh/roblox-filter-for-discord) which will (soon™) have more features than a couple lines of code `¯\_(ツ)_/¯`
+i make really useless discord bots and other things when i'm bored;
 
 ---
 
