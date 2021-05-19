@@ -6,11 +6,6 @@
 <img src="https://img.shields.io/badge/discord-492731761680187403-informational?style=flat-square&logo=discord&color=7289DA" alt="discord">
 </p>
 
-<p align = center>
-    <img src="https://img.shields.io/github/followers/dromzeh?label=Followers&style=social" alt="github follows"/>
-    <img src="https://img.shields.io/twitter/follow/dromzeh?label=Followers&style=social" alt="twitter follows"/>
-</p>
-
 i make really useless discord bots and other things when i'm bored;
 
 ---
