@@ -31,6 +31,8 @@ i make really useless discord bots and other things when i'm bored;
 [![Premiere](https://img.shields.io/badge/Premiere-black?style=for-the-badge&logo=adobe-Premiere-pro)]()
 [![AE](https://img.shields.io/badge/AE-black?style=for-the-badge&logo=adobe-after-effects)]()
 [![FA](https://img.shields.io/badge/FONTAWESOME-black?style=for-the-badge&logo=font-awesome)]()
+[![Tailwind](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwind-css)]()
+
 
 </details>
 
