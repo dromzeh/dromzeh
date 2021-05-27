@@ -8,6 +8,9 @@
 
 i make really useless discord bots and other things when i'm bored;
 
+- currently learning flask & javascript
+
+
 ---
 
 <details open>
