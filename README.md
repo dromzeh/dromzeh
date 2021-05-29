@@ -43,9 +43,7 @@ i make really useless discord bots and other things when i'm bored;
 <p>
   
 ![](https://img.shields.io/badge/492731761680187403-informational?style=for-the-badge&logo=discord&color=black)
-![](https://img.shields.io/badge/dromzeh@protonmail.com-informational?style=for-the-badge&logo=protonmail&color=black)
-![](https://img.shields.io/badge/hi@dromzeh.best-informational?style=for-the-badge&logo=protonmail&color=black)
-    
+![](https://img.shields.io/badge/dromzeh@protonmail.com-informational?style=for-the-badge&logo=protonmail&color=black)    
     
 </p>
 </details>
