@@ -1,10 +1,28 @@
 [![wakatime](https://wakatime.com/badge/user/9085fbd8-dc16-4665-adb6-629713160239.svg?logoColor=white)](https://wakatime.com/@9085fbd8-dc16-4665-adb6-629713160239)
 
 Self-Taught Full-Stack Web Developer & Serverless Enthusiast, focused on creating **elegantly scalable** web applications. 
-Impulsively created <a href ="https://wanderer.moe">wanderer.moe</a> - fully open-source website used by thousands daily which hosts a centralized database of thousands of game assets.
+Currently building <a href ="https://wanderer.moe">wanderer.moe</a> - fully open-source website used by thousands daily which hosts a centralized database of thousands of game assets.
 
 ---
 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?color=black&logo=Cloudflare&logoColor=white) ![CFW](https://img.shields.io/badge/Cloudflare_Workers-F38020?color=black&logo=CloudflarePages&logoColor=white) ![PlanetScale](https://img.shields.io/badge/Planetscale-%23000000?color=black&logo=planetscale&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-%2307405e?color=black&logo=sqlite&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-%23000?color=black&logo=flask&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-%23646CFF?color=black&logo=vite&logoColor=white) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?color=black&logo=arch-linux&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff?color=black&logo=digitalOcean&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?color=black&logo=Prisma&logoColor=white) ![S3](https://img.shields.io/badge/S3-%230167ff?color=black&logo=Amazon-S3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%230167ff?color=black&logo=Amazon-AWS&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?color=black&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?color=black&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/React-%23FF3E00?color=black&logo=react&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-%23FF3E00?color=black&logo=svelte&logoColor=white)
+![Next](https://img.shields.io/badge/Next.js-%23FF3E00?color=black&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF?color=black&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-%23FF3E00?color=black&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-%23FF3E00?color=black&logo=framer&logoColor=white)
 
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6?color=black&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC?color=black&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?color=black&logo=html5&logoColor=white)  ![Rust](https://img.shields.io/badge/Rust-%23000000?color=black&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?color=black&logo=python&logoColor=white) ![Svelte](https://img.shields.io/badge/Svelte-%23FF3E00?color=black&logo=svelte&logoColor=white) ![Tailwind](https://img.shields.io/badge/TailwindCSS-%23FF3E00?color=black&logo=tailwindcss&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?color=black&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000?color=black&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC?color=black&logo=typescript&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000?color=black&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e?color=black&logo=sqlite&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?color=black&logo=Prisma&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?color=black&logo=Cloudflare&logoColor=white)
+![CFW](https://img.shields.io/badge/Cloudflare_Workers-F38020?color=black&logo=CloudflarePages&logoColor=white)
+![PlanetScale](https://img.shields.io/badge/Planetscale-%23000000?color=black&logo=planetscale&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff?color=black&logo=digitalOcean&logoColor=white)
+![S3](https://img.shields.io/badge/S3-%230167ff?color=black&logo=Amazon-S3&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%230167ff?color=black&logo=Amazon-AWS&logoColor=white)
