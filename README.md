@@ -1,7 +1,6 @@
 [![wakatime](https://wakatime.com/badge/user/9085fbd8-dc16-4665-adb6-629713160239.svg?logoColor=white)](https://wakatime.com/@9085fbd8-dc16-4665-adb6-629713160239)
 
-Self-Taught Full-Stack Web Developer & Serverless Enthusiast, focused on creating **elegantly scalable** web applications. 
-Currently building <a href ="https://wanderer.moe">wanderer.moe</a> - fully open-source website used by thousands daily which hosts a centralized database of thousands of game assets.
+Full-Stack Web Developer & Serverless Enthusiast, focused on creating **elegantly scalable** web applications. Created <a href ="https://wanderer.moe">wanderer.moe</a>.
 
 ---
 
