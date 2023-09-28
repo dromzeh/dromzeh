@@ -1,6 +1,6 @@
 [![wakatime](https://wakatime.com/badge/user/9085fbd8-dc16-4665-adb6-629713160239.svg?logoColor=white)](https://wakatime.com/@9085fbd8-dc16-4665-adb6-629713160239)
 
-Full-Stack Web Developer & Serverless Aficionado, focused on creating **elegantly scalable** web applications. 
+"Full-stack" web developer
 
 Created <a href ="https://wanderer.moe">wanderer.moe</a> [120K+ MAU] and <a href = "https://git.dromzeh.dev/hyv-fps-unlocker">hyv-fps-unlocker</a>.
 
