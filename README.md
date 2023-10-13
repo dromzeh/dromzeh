@@ -1,8 +1,8 @@
 [![wakatime](https://wakatime.com/badge/user/9085fbd8-dc16-4665-adb6-629713160239.svg?logoColor=white)](https://wakatime.com/@9085fbd8-dc16-4665-adb6-629713160239)
 
-"Full-stack" web developer
+Creator of <a href ="https://wanderer.moe">wanderer.moe</a>. Primarily focused within Backend, Infrastructure & Serverless Computing.
 
-Created <a href ="https://wanderer.moe">wanderer.moe</a> [120K+ MAU] and <a href = "https://git.dromzeh.dev/hyv-fps-unlocker">hyv-fps-unlocker</a>.
+Reach out @ <a href="mailto:marcel@dromzeh.dev">marcel@dromzeh.dev</a> or through <a href="https://discord.com/users/492731761680187403">discord</a>
 
 ---
 
