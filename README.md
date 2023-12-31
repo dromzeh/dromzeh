@@ -1,8 +1,8 @@
 [![wakatime](https://wakatime.com/badge/user/9085fbd8-dc16-4665-adb6-629713160239.svg?logoColor=white)](https://wakatime.com/@9085fbd8-dc16-4665-adb6-629713160239)
 
-creator of <a href ="https://wanderer.moe">wanderer.moe</a> — primarily focused within backend, infrastructure & serverless computing.
+Creator of <a href ="https://wanderer.moe">wanderer.moe</a> — primarily focused within infrastructure, serverless computing and backend development.
 
-reach out @ <a href="mailto:marcel@dromzeh.dev">marcel@dromzeh.dev</a> — <a href="https://discord.com/users/492731761680187403">discord</a>
+Reach out @ <a href="mailto:marcel@dromzeh.dev">marcel@dromzeh.dev</a> or through <a href="https://discord.com/users/492731761680187403">Discord</a>
 
 ---
 
