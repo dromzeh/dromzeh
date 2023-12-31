@@ -1,4 +1,5 @@
 [![wakatime](https://wakatime.com/badge/user/9085fbd8-dc16-4665-adb6-629713160239.svg?logoColor=white)](https://wakatime.com/@9085fbd8-dc16-4665-adb6-629713160239)
+[![twitter/x](https://img.shields.io/twitter/follow/dromzeh?style=social)](https://twitter.com/dromzeh)
 
 Creator of <a href ="https://wanderer.moe">wanderer.moe</a> — primarily focused within infrastructure, serverless computing and backend development.
 
@@ -20,8 +21,10 @@ Reach out @ <a href="mailto:marcel@dromzeh.dev">marcel@dromzeh.dev</a> or throug
 ![Rust](https://img.shields.io/badge/Rust-%23000000?color=black&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC?color=black&logo=typescript&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff?color=black&logo=digitalOcean&logoColor=white)
-![S3](https://img.shields.io/badge/S3-%230167ff?color=black&logo=Amazon-S3&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%230167ff?color=black&logo=Amazon-AWS&logoColor=white)
+![S3](https://img.shields.io/badge/S3-%230167ff?color=black&logo=Amazon-S3&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-%230167ff?color=black&logo=Amazon-EC2&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-%23FF3E00?color=black&logo=Hono&logoColor=white)
 ![CFW](https://img.shields.io/badge/Cloudflare_Workers-F38020?color=black&logo=CloudflarePages&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000?color=black&logo=flask&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?color=black&logo=python&logoColor=white)
