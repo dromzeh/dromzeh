@@ -1,9 +1,11 @@
 [![wakatime](https://wakatime.com/badge/user/9085fbd8-dc16-4665-adb6-629713160239.svg?logoColor=white)](https://wakatime.com/@9085fbd8-dc16-4665-adb6-629713160239)
 [![twitter/x](https://img.shields.io/twitter/follow/dromzeh?style=social)](https://twitter.com/dromzeh)
 
-Creator of <a href ="https://wanderer.moe">wanderer.moe</a> — primarily focused within infrastructure, serverless computing and backend development.
+17 — primarily focused within infrastructure, serverless computing and backend development.
 
-Reach out @ <a href="mailto:marcel@dromzeh.dev">marcel@dromzeh.dev</a> or through <a href="https://discord.com/users/492731761680187403">Discord</a>
+Creator of <a href ="https://wanderer.moe">wanderer.moe</a>, centralized asset database w/ over 100K MAU.
+
+Reach out @ <a href="mailto:marcel@dromzeh.dev">marcel@dromzeh.dev</a>, <a href="https://discord.com/users/492731761680187403">Discord</a> or <a href="https://x.com/dromzeh">Twitter</a>
 
 ---
 
