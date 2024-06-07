@@ -9,4 +9,4 @@ Currently working on an <a href="https://x.com/originoidco">OC & Art Sharing pla
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://cdn.marcel.best/ShareX/2024/06/Discord_bbII9iQU5i.png');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/dromzeh/dromzeh/blob/main/Discord_bbII9iQU5i.png?raw=true');]{x0000}$}
