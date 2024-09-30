@@ -2,10 +2,12 @@
 [![twitter/x](https://img.shields.io/twitter/follow/dromzeh?style=social)](https://twitter.com/dromzeh)
 
 <samp>
-undergrad interested in infrastructure, mathematics, devops & backend development.
+founder & ceo @ originoid ltd
 <br/>
 created <a href="https://wanderer.moe">wanderer.moe</a>, working on <a href="https://pfp.supply">pfp.supply</a> & <a href="https://x.com/originoidco">originoid</a>.
 <br/>
+<br/>
+interested in infrastructure, mathematics, devops & backend development. 
 <br/>
 open to talking about anything pertaining mutual interest through <a href="https://discord.com/users/492731761680187403">discord</a> or <a href="mailto:marcel@dromzeh.dev">email</a>.
 </samp>
