@@ -4,7 +4,7 @@
 <samp>
 founder & ceo @ originoid ltd
 <br/>
-created <a href="https://wanderer.moe">wanderer.moe</a>, working on <a href="https://pfp.supply">pfp.supply</a> & <a href="https://x.com/originoidco">originoid</a>.
+created <a href="https://wanderer.moe">wanderer.moe</a>, <a href="https://originoid.co">originoid</a>.
 <br/>
 <br/>
 interested in infrastructure, mathematics, devops & backend development. 
