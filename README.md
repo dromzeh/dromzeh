@@ -2,12 +2,22 @@
 [![twitter/x](https://img.shields.io/twitter/follow/dromzeh?style=social)](https://twitter.com/dromzeh)
 
 <samp>
-founder & ceo @ originoid ltd
+Founder of Originoid LTD 
+<br/> 
+Prev. Systems Eng 
 <br/>
-created <a href="https://wanderer.moe">wanderer.moe</a>, <a href="https://originoid.co">originoid</a>.
+<br/> 
+Current projects: 
+<br/> 
+• <a href="https://wanderer.moe">wanderer.moe</a> - 300K+ monthly active users 
+<br/> 
+• <a href="https://originoid.co">originoid</a> - 14K+ waitlisted 
+<br/> 
+<br/> 
+Areas of interest: Infrastructure, Hardware & Backend dev
+<br/> 
+Open to discussions on mutual interests
 <br/>
 <br/>
-interested in infrastructure, mathematics, devops & backend development. 
-<br/>
-open to talking about anything pertaining mutual interest through <a href="https://discord.com/users/492731761680187403">discord</a> or <a href="mailto:marcel@dromzeh.dev">email</a>.
-</samp>
+<a href="https://discord.com/users/492731761680187403">Discord</a> • <a href="https://dm.new/marc">X</a> • <a href="mailto:marcel@dromzeh.dev">marcel@dromzeh.dev</a> 
+</samp> 
