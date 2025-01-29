@@ -2,7 +2,7 @@
 [![twitter/x](https://img.shields.io/twitter/follow/dromzeh?style=social)](https://twitter.com/dromzeh)
 
 <samp>
-Founder of Originoid LTD 
+Founder of <a href="https://originoid.ltd">Originoid LTD</a> 
 <br/> 
 Prev. Systems Eng 
 <br/>
@@ -11,10 +11,8 @@ Current projects:
 <br/> 
 • <a href="https://wanderer.moe">wanderer.moe</a> - 300K+ monthly active users 
 <br/> 
-• <a href="https://originoid.co">originoid</a> - 14K+ waitlisted 
+• <a href="https://originoid.co">originoid</a> - 17K+ waitlisted 
 <br/> 
-<br/> 
-Areas of interest: Infrastructure, Hardware & Backend dev
 <br/> 
 Open to discussions on mutual interests
 <br/>
