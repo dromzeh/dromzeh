@@ -9,9 +9,9 @@ Prev. Systems Eng
 <br/> 
 Current projects: 
 <br/> 
-• <a href="https://wanderer.moe">wanderer.moe</a> - 300K+ monthly active users 
+• <a href="https://wanderer.moe">wanderer.moe</a> - ~300K monthly active users 
 <br/> 
-• <a href="https://originoid.co">originoid</a> - 17K+ waitlisted 
+• <a href="https://originoid.co">Originoid</a> - 20K+ waitlisted 
 <br/> 
 <br/> 
 Open to discussions on mutual interests
