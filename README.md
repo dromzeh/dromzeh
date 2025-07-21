@@ -2,20 +2,20 @@
 [![twitter/x](https://img.shields.io/twitter/follow/dromzeh?style=social)](https://twitter.com/dromzeh)
 
 <samp>
-Founder of <a href="https://originoid.ltd">Originoid LTD</a> 
+founder of <a href="https://originoid.ltd">originoid ltd</a> 
 <br/> 
-Prev. Systems Eng 
+prev. systems engineer 
 <br/>
 <br/> 
-Current projects: 
+current projects: 
 <br/> 
 • <a href="https://wanderer.moe">wanderer.moe</a> - ~300K monthly active users 
 <br/> 
-• <a href="https://originoid.co">Originoid</a> - 20K+ waitlisted 
+• <a href="https://originoid.co">originoid</a> - 20K+ waitlisted 
 <br/> 
 <br/> 
-Open to discussions on mutual interests
+open to discussions from strangers on mutual interests
 <br/>
 <br/>
-<a href="https://discord.com/users/492731761680187403">Discord</a> • <a href="https://dm.new/marc">X</a> • <a href="mailto:marcel@dromzeh.dev">marcel@dromzeh.dev</a> 
+<a href="https://discord.com/users/492731761680187403">discord</a> • <a href="https://dm.new/marc">x</a> • <a href="mailto:marcel@dromzeh.dev">marcel@dromzeh.dev</a> 
 </samp> 
