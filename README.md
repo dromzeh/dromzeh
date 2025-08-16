@@ -9,7 +9,7 @@ prev. systems engineer
 <br/> 
 current projects: 
 <br/> 
-• <a href="https://wanderer.moe">wanderer.moe</a> - ~300K monthly active users 
+• <a href="https://skowt.cc">skowt.cc</a> (prev wanderer.moe) - ~300K monthly active users 
 <br/> 
 • <a href="https://originoid.co">originoid</a> - 20K+ waitlisted 
 <br/> 
