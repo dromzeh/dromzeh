@@ -11,10 +11,12 @@ current projects:
 <br/> 
 • <a href="https://skowt.cc">skowt.cc</a> (prev wanderer.moe) - ~300K monthly active users 
 <br/> 
-• <a href="https://originoid.co">originoid</a> - 20K+ waitlisted 
+• <a href="https://originoid.co">originoid</a> - 25K+ waitlisted 
 <br/> 
 <br/> 
 open to discussions from strangers on mutual interests
+
+note that i'm currently really slow to reply due to sheer volume of messages i recieve
 <br/>
 <br/>
 <a href="https://discord.com/users/492731761680187403">discord</a> • <a href="https://dm.new/marc">x</a> • <a href="mailto:marcel@dromzeh.dev">marcel@dromzeh.dev</a> 
