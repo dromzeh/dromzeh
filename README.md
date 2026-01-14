@@ -11,11 +11,7 @@
 <samp>
 current projects: 
 <br/> 
-• <a href="https://skowt.cc">skowt.cc</a> - 100-300K monthly active users 
+• <a href="https://skowt.cc">skowt.cc</a> - ~100-300K monthly active users 
 <br/> 
 • <a href="https://originoid.co">originoid</a> - 30K waitlisted 
 <br/> 
-<br/> 
-read my <a href="https://dromzeh.dev/faq">faq</a> for my entire lore + contact information
-
-> reply speed can vary
