@@ -1,4 +1,5 @@
 [![wakatime](https://wakatime.com/badge/user/9085fbd8-dc16-4665-adb6-629713160239.svg?logoColor=white)](https://wakatime.com/@9085fbd8-dc16-4665-adb6-629713160239)
+[![Discord]( https://img.shields.io/discord/982385887000272956?logo=discord&logoColor=eee&label=Discord&labelColor=464ce5&color=fff&cacheSeconds=43200)](https://discord.gg/noid)
 [![twitter/x](https://img.shields.io/twitter/follow/dromzeh?style=social)](https://twitter.com/dromzeh)
 
 ```
@@ -13,5 +14,5 @@ current projects:
 <br/> 
 • <a href="https://skowt.cc">skowt.cc</a> - ~100-300K monthly active users 
 <br/> 
-• <a href="https://originoid.co">originoid</a> - 30K waitlisted 
+• <a href="https://originoid.co">originoid</a> - 30K waitlisted users
 <br/> 
