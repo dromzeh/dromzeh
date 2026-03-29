@@ -12,7 +12,17 @@
 <samp>
 current projects: 
 <br/> 
-• <a href="https://skowt.cc">skowt.cc</a> - ~100-300K monthly active users 
+• <a href="https://skowt.cc">skowt.cc</a> - 100-300K monthly active users 
 <br/> 
-• <a href="https://originoid.co">originoid</a> - 30K waitlisted users
+• <a href="https://originoid.co">originoid</a> - 40K waitlisted users
+<br/> 
+<br/> 
+
+writings:
+<br/> 
+• <a href="https://dromzeh.dev/posts/xb360-exploit-chain">li r3, 1: An Xbox 360 Exploit Chain</a>
+<br/> 
+• <a href="https://antifield.com/blog/posts/introducing-imprint-1/">Introducing Imprint 1</a> (antifield.com)
+<br/> 
+• <a href="https://dromzeh.dev/posts/a-rhythm-game-to-practice-a-rhythm-game">A Rhythm Game to Practice a Rhythm Game</a>
 <br/> 
