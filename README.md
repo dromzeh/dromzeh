@@ -20,6 +20,8 @@ current projects:
 
 writings:
 <br/> 
+• <a href="https://dromzeh.dev/posts/denuvo">Defeating Denuvo from Ring -1</a>
+<br/> 
 • <a href="https://dromzeh.dev/posts/xb360-exploit-chain">li r3, 1: An Xbox 360 Exploit Chain</a>
 <br/> 
 • <a href="https://antifield.com/blog/posts/introducing-imprint-1/">Introducing Imprint 1</a> (antifield.com)
