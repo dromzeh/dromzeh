@@ -18,7 +18,7 @@
       <br />
       <a href="https://dromzeh.dev/posts/skowt-cc-architecture">the architecture of skowt.cc</a>
       <br />
-      <a href="https://antifield.com/posts/etcht-neo-recognition-benc">etcht neo recognition benchmarks</a> (antifield.com)
+      <a href="https://antifield.com/posts/etcht-neo-recognition-benchmarks">etcht neo recognition benchmarks</a> (antifield.com)
       <br />
       <a href="https://dromzeh.dev/posts/xb360-exploit-chain">li r3, 1: an xbox 360 exploit chain</a>
     </p>
