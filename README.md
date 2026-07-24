@@ -1,6 +1,5 @@
 <div align="center">
   <samp>
-    wearing far too many hats @ <a href="https://antifield.com">antifield</a></p>
     <p>
       <a href="https://dromzeh.dev">website</a>
       &nbsp;·&nbsp;
@@ -12,6 +11,7 @@
     </p>
     <!-- writings: (maybe?) -->
     <p>
+      <br />
       <a href="https://dromzeh.dev/posts/reverse-engineering-fortnite-festival">i made fortnite festival's missing practice mode</a>
       <br />
       <a href="https://dromzeh.dev/posts/denuvo">defeating denuvo from ring -1</a>
